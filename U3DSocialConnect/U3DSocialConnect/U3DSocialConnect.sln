@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U3DSocialConnect", "U3DSocialConnect\U3DSocialConnect.csproj", "{BFCE4708-472F-4ABD-BE4B-157D51E8AF1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFCE4708-472F-4ABD-BE4B-157D51E8AF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCE4708-472F-4ABD-BE4B-157D51E8AF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCE4708-472F-4ABD-BE4B-157D51E8AF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCE4708-472F-4ABD-BE4B-157D51E8AF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = U3DSocialConnect\U3DSocialConnect.csproj
+	EndGlobalSection
+EndGlobal
